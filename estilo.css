@@ -1,6 +1,7 @@
 body{
     background: rgb(108, 108, 206);
-   font: "Silkscreen",sans-serif;
+    font-family: 'Silkscreen', cursive;
+    font-family: 'VT323', monospace;
 }
 
 header{
@@ -15,6 +16,11 @@ section {
     width: 70%;
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.507);
+}
+
+@font-face {
+    font-family: "Silkscreen",  sans-serif;
+    src: url(/assets/Silkscreen-Regular.ttf);
 }
 
 footer{
