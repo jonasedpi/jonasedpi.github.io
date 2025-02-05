@@ -15,7 +15,7 @@ const projects: Project[] = [
     title: "Meu Portfólio",
     description: "Uma página pessoal para exibir meus projetos, habilidades e experiências.",
     techStack: ["React", "TypeScript", "Tailwind CSS"],
-    liveLink: "https://jonasedpi.github.io",
+    liveLink: "https://jonasedpi.vercel.app",
     repoLink: "https://github.com/jonasedpi/jonasedpi.github.io",
   },
 ];
